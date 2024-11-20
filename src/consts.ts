@@ -9,7 +9,7 @@ export const SITE: Site = {
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Work",
+  TITLE: "Chapters",
   DESCRIPTION: "My resume.",
 }
 
@@ -38,7 +38,7 @@ export const LINKS: Links = [
     HREF: "/", 
   },
   { 
-    TEXT: "Work", 
+    TEXT: "Chapters", 
     HREF: "/work", 
   },
   { 
@@ -56,8 +56,8 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Email",
     ICON: "email", 
-    TEXT: "hahz@blkluv.org.com",
-    HREF: "mailto:hahz@blkluv.org.com",
+    TEXT: "hahz@blkluv.org",
+    HREF: "mailto:hahz@blkluv.org",
   },
   { 
     NAME: "TikTok",

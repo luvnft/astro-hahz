@@ -1,87 +1,19 @@
 ---
-title: "Astro Sphere: Adding a new post or project."
-summary: "Adding a new article (blog post or project) is pretty easy."
+title: "Number one reason spiritual people are broke"
+summary: "Negative thoughts of wealthy people only blocks your wealth."
 date: "Mar 14 2024"
 draft: false
 tags:
-- Tutorial
-- Astro
-- Astro Sphere
+- Spiritual
+- Manifest
+- Business
 ---
-### Basics
+### Manifesting 101
 
-Create a folder in the respective collection you wish to create content. The name of the folder will be the slug in which your content will be found.
+Here is the root of why people in the spiritual community at a certain stage of their awakening are broke when they believe wealthy or rich people are evil. This was programming implanted in us with media manipulation mixed with religious scripts implanted in the sub-conscious of society. 
 
-```text
-creating the following
+When you love money you attract more of it spiritually, when you become spiritually wealthy it eventually hardens into your reality. 
 
-/content/blog/my-new-post/index.md
+Book me [Book me](https://healxyz.com/products/30-min-spiritual-business-guide-copy) to help you get to the root of why your not manifesting wealth.
 
-will be published to
-
-https://yourdomain.com/blog/my-new-post
-
-```
-
-### Frontmatter
-
-Front matter is in yaml if you are familiar with the format. All posts and projects require frontmatter at the top of the document to be imported. All frontmatter must be inside triple dashes, similar to Astro format. See example below.
-
-### Blog Collection
-
-| Field   | Type    | Req? | Description                                                   |
-| :------ | :------ | :--- | :------------------------------------------------------------ |
-| title   | string  | yes  | Title of the post. Used in SEO.                               |
-| summary | string  | yes  | Short description of the post. Used in SEO.                   |
-| date    | string  | yes  | Any string date that javascript can convert. Used in sorting  |
-| tags    | array   | yes  | Post topic. Array of strings. Used in filtering.              |
-| draft   | boolean | no   | Hides the post from collections. Unpublished entry.           |
-
-Example blog post frontmatter
-
-```yaml
----
-title: "Astro Sphere: Adding a new post or project."
-summary: "Adding a new article (blog post or project) is pretty easy."
-date: "Mar 18 2024"
-draft: false
-tags:
-- Tutorial
-- Astro
-- Astro Sphere
----
-```
-
-### Projects Collection (extends Blog Collection)
-
-| Field   | Type    | Req? | Description                                                   |
-| :------ | :------ | :--- | :------------------------------------------------------------ |
-| title   | string  | yes  | Title of the post. Used in SEO.                               |
-| summary | string  | yes  | Short description of the post. Used in SEO.                   |
-| date    | string  | yes  | Any string date that javascript can convert. Used in sorting  |
-| tags    | array   | yes  | Post topic. Array of strings. Used in filtering.              |
-| draft   | boolean | no   | Hides the post from collections. Unpublished entry.           |
-| demoUrl | string  | no   | A link to the deployed project, if applicable.                |
-| repoUrl | string  | no   | A link to the repository, if applicable.                      |
-
-Example project frontmatter
-
-```yaml
----
-title: "Astro Sphere"
-summary: "Astro Sphere, a portfolio and blog for designers and developers."
-date: "Mar 18 2024"
-draft: false
-tags:
-- Astro
-- Typescript
-- Javascript
-- Tailwind
-- SolidJS
-demoUrl: https://astro-sphere.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
----
-```
-
-### Write your content
-You've made it this far, all that is left to do is write your content beneath the frontmatter. Writing markdown will be covered in the next article.
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@wizardofhahz/video/7438653395231165726" data-video-id="7438653395231165726" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@wizardofhahz" href="https://www.tiktok.com/@wizardofhahz?refer=embed">@wizardofhahz</a> Yes, the Matrix shows us evil wealthy people for us to hate wealth and connect negative energy towards those with money.  Yes, I love money. Im spiritual wealthy. 🥰 Book me on healxyz.com to help you manifest money starting with helping you Heal. Follow @HealXYZ  <a title="spirituality" target="_blank" href="https://www.tiktok.com/tag/spirituality?refer=embed">#spirituality</a> <a title="spiritualtiktok" target="_blank" href="https://www.tiktok.com/tag/spiritualtiktok?refer=embed">#spiritualtiktok</a> <a title="wizardofhahz" target="_blank" href="https://www.tiktok.com/tag/wizardofhahz?refer=embed">#wizardofhahz</a> <a title="love" target="_blank" href="https://www.tiktok.com/tag/love?refer=embed">#love</a> <a title="money" target="_blank" href="https://www.tiktok.com/tag/money?refer=embed">#money</a> <a title="wealth" target="_blank" href="https://www.tiktok.com/tag/wealth?refer=embed">#wealth</a> <a title="spirirualwealth" target="_blank" href="https://www.tiktok.com/tag/spirirualwealth?refer=embed">#spirirualwealth</a> <a target="_blank" title="♬ original sound - 🧙🏼‍♂️ Wizard of Hahz" href="https://www.tiktok.com/music/original-sound-7438653382732040990?refer=embed">♬ original sound - 🧙🏼‍♂️ Wizard of Hahz</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
