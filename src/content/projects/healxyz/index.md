@@ -1,7 +1,7 @@
 ---
 title: "HealXYZ"
 summary: "Spiritual Healthcare Marketplace of verified HealRs"
-date: "Mar 1 2024"
+date: "Nov 11 2024"
 draft: false
 tags:
 - Bitcoin
