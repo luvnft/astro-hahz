@@ -62,7 +62,7 @@ export const SOCIALS: Socials = [
   { 
     NAME: "TikTok",
     ICON: "tiktok",
-    TEXT: "Wizard of Hahz",
+    TEXT: "@Wizard ofHahz",
     HREF: "https://tiktok.com/@wizardofhahz"
   },
   { 
@@ -74,7 +74,7 @@ export const SOCIALS: Socials = [
   { 
     NAME: "YouTube",
     ICON: "youtube",
-    TEXT: "YouTube",
+    TEXT: "@WizardofHahz",
     HREF: "https://youtube.com/@wizardofhahz",
   },
 ]
