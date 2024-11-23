@@ -12,6 +12,8 @@ tags:
 
 Hahz.live TV is here, setting a new standard for live-streaming platforms with a unique focus on spirituality, purpose-driven content, and blockchain-powered engagement. But that's not all—it also rewards viewers with crypto, including Bitcoin and NFTs, just for tuning in. At the helm of this historic launch is none other than **Hassan "Hahz" Terry**, aka **The Wizard of Hahz**, a blockchain thought leader transforming the way we experience wealth, education, and digital economies.
 
+You can book the Wizard of Hahz for spiritual advice on [HealXYZ](https://healxyz.com)for 30-60-90 minutes live on [Hahz.live TV](https://tv.hahz.live).
+
 ---
 
 ## Features of Hahz.live TV Compared to Other Platforms
@@ -84,7 +86,7 @@ His journey exemplifies what’s possible with vision, determination, and blockc
 
 ## Join the Movement
 
-Hahz.live TV isn’t just an app—it’s a movement. A platform that combines spirituality, blockchain, and education to create a purpose-driven community. Follow **@WizardofHahz**, tune into his live events, and start your journey toward spiritual and economic wealth.
+Hahz.live TV isn’t just an app—it’s a movement. A platform that combines spirituality, blockchain, and education to create a purpose-driven community. Follow [@wizardofhahz](https://tiktok.com/@wizardofhahz), tune into his live events, and start your journey toward spiritual and economic wealth.
 
 ### **Be Part of History.**
 Earn crypto. Learn blockchain. Change the world.

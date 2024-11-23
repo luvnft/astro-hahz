@@ -5,6 +5,7 @@ date: "Nov 17 2024"
 draft: false
 tags:
 - Starknet
+- Game
 
 demoUrl: https://tetris.hahz.live
 
